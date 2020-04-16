@@ -1,0 +1,31 @@
+.comp_info {
+  
+  color:#3B5998;
+  font-size: 20px;
+  margin-top: 100px;
+}
+.text-white{
+	font-size: 16px;
+}
+
+#nav-menu-container ul li a{
+	font-size: 14px;
+	
+}
+#nav-menu-container ul li a:hover{
+	color: #37878a;
+	
+}
+
+.company_name{
+	font-weight: bold;
+	font-size: 20px;
+}
+.why_us{
+	margin-top: -100px;
+}
+.msg_founder{
+	color:#3B5998;
+  	font-size: 16px;
+
+}
